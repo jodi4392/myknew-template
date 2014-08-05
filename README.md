@@ -1,0 +1,4 @@
+myknew-template
+===============
+
+html template
